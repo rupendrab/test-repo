@@ -9,3 +9,31 @@ git fetch origin
 git pull origin master
 ## Now you have the files in the local directory
 ```
+
+Working in the local repository
+
+```
+git status
+# Add a new file
+echo 'My Project' > SomeFile
+git status
+
+# Add somefile to staging area (tracked)
+git add SomeFile
+
+# Add another file
+touch CONTRIBUTING.md
+git status
+
+# Now modify the README.md file
+git status
+
+# Now add these two files
+git add README.md
+git add CONTRIBUTING.md
+git status
+
+# Modify the README.md again
+git status
+
+```
