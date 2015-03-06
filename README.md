@@ -1,2 +1,2 @@
 # test-repo
-test repository
+Test Repository to test git and github interactions
