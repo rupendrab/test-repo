@@ -36,4 +36,11 @@ git status
 # Modify the README.md again
 git status
 
+# Now commit the changes
+git commit -a -m "Addition of commit and push to README.md"
+git status
+
+# Now push the changes to github
+git push origin master
+
 ```
