@@ -1,5 +1,6 @@
 # test-repo
-Test Repository to test git and github interactions
+
+## Test Repository to test git and github interactions
 ```
 cd ~/Documents/Coursera
 mkdir test-repo
@@ -10,7 +11,7 @@ git pull origin master
 ## Now you have the files in the local directory
 ```
 
-Working in the local repository
+## Working in the local repository
 
 ```
 git status
