@@ -5,6 +5,7 @@
 cd ~/Documents/Coursera
 mkdir test-repo
 cd test-repo
+git init
 git remote add origin https://github.com/rupendrab/test-repo.git
 git fetch origin
 git pull origin master
